@@ -1,1 +1,8 @@
-print("My name is Ken")
+print("My name is Ken") 
+
+def add(a,b):
+    return a+b
+
+def sub(a,b):
+    return a-b
+
